@@ -1,0 +1,36 @@
+_repo: Domesday-Book-and-BeyondThree-Essays-in-the-Early-History-of-England_43255
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43255-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Maitland, Frederic William
+    aliases:
+    - Maitland, F. W. (Frederic William)
+    - Maitland, Frederick William
+    birthdate: 1850
+    deathdate: 1906
+    gutenberg_agent_id: '42092'
+    url: http://www.gutenberg.org/2009/agents/42092
+description: ''
+gutenberg_issued: '2013-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43255'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manuscripts, Medieval -- England'
+- !lcsh 'Great Britain -- History -- Anglo-Saxon period, 449-1066'
+- !lcsh 'Domesday book'
+- !lcsh 'Land tenure -- England -- History'
+- !lcsh 'Great Britain -- History -- Norman period, 1066-1154'
+- !lcc 'DA'
+- !lcsh 'England -- Economic conditions -- 1066-1485'
+- !lcsh 'Feudalism -- England -- History'
+tableOfContents: Domesday book -- England before the Conquest -- The hide.
+title: 'Domesday Book and Beyond: Three Essays in the Early History of England'
+url: http://www.gutenberg.org/ebooks/43255
